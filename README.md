@@ -16,4 +16,4 @@ Usikker på hvilken Mac du har? Klikk på eplet øverst til venstre på skjermen
 
 **Første gang på Mac:** åpne .dmg-filen og dra LilBot inn i Programmer. Høyreklikk LilBot i Programmer og velg Åpne, så Åpne igjen. Får du bare valget «Flytt til papirkurven»: gå til Systeminnstillinger › Personvern og sikkerhet, bla ned og trykk «Åpne likevel». Etter det åpner den som vanlig.
 
-LilBot krever en kode. Skriv `/lilbot` i https://discord.gg/JHhzaUjAH for å få din.
+LilBot krever en kode. Skriv `/lilbot` i Discorden for å få koden din. Krever rollen @LilBot Access.
